@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GmallUserApplication {
 
 	public static void main(String[] args) {
-		System.out.println("用户服务");
+		System.out.println("用户服务启动");
 		SpringApplication.run(GmallUserApplication.class, args);
 	}
 
